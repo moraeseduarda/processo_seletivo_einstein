@@ -56,7 +56,6 @@ resultado_geral = pd.DataFrame(resultado_geral, index=[0])
 print(resultados_alunos)
 print(resultado_geral)
 
-# Criando uma nova planilha como o output
-
+# Criando novas planilhas com os resultados
 resultados_alunos.to_excel("output/resultados_alunos.xlsx")
 resultado_geral.to_excel("output/resultado_geral.xlsx")

@@ -23,8 +23,6 @@ básicas com os dados presentes nas planilhas.
 
 RESULTADOS
 - O código retorna dois dataframes com os dados esperados e duas novas planilhas excel na pasta output do diretório.
-- NOTA: Deixei a pasta output vazia para a visualização das planilhas que criei com os resultados apenas após a execução
-do código .py.
 
 ### O que aprendi
 
